@@ -1,0 +1,5 @@
+name: Paintball
+main: com.updg.paintball.PaintballPlugin
+version: 1
+depend: [CRAPI]
+commands:
